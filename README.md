@@ -2,7 +2,7 @@
 ## Monprecieuxvelo
 
 This little app called "monprecieuxvelo" was created to learn Laravel. 
-I used the CSS framework Bulma.
+I used the CSS framework Bulma. 
 The application allows you to : 
 
 -  Create members of "monprecieuxvelo" association
