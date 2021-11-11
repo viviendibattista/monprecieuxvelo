@@ -12,12 +12,15 @@ The application allows you to :
 -  Add and edit parking lots
 -  ...
 
-## Connect to the database
+## How to run the app
 
-You will find the dump.sql file in the source code.
-After importing the mysql databe you can use the following identifiers to test the app : 
+First you have to import the mysql database. You will find the dump.sql file in the source code.
+After setting up the Laravel project you can use the following identifiers to test the app : 
 
 -  johnwayne@mpv.fr / RioBravo
 -  leevancliff@mpv.fr / laBrute
 -  charlesbronson@mpv.fr / harmonica
 -  clinteastwood@mpv.fr / blondin
+
+The app was developped with PHP 7.4, Apache 2.4 and MySQL 7.4
+:) 
